@@ -193,6 +193,8 @@ h1 {
 .comando:nth-child(1) { animation-delay: 0.1s; }
 .comando:nth-child(2) { animation-delay: 0.2s; }
 .comando:nth-child(3) { animation-delay: 0.3s; }
+.comando:nth-child(4) { animation-delay: 0.4s; }
+.comando:nth-child(5) { animation-delay: 0.5s; }
 
 .comando::before {
     content: '';
