@@ -195,6 +195,11 @@ h1 {
 .comando:nth-child(3) { animation-delay: 0.3s; }
 .comando:nth-child(4) { animation-delay: 0.4s; }
 .comando:nth-child(5) { animation-delay: 0.5s; }
+.comando:nth-child(6) { animation-delay: 0.6s; }
+.comando:nth-child(7) { animation-delay: 0.7s; }
+.comando:nth-child(8) { animation-delay: 0.8s; }
+.comando:nth-child(9) { animation-delay: 0.9s; }
+.comando:nth-child(10) { animation-delay: 1.0s; }
 
 .comando::before {
     content: '';
