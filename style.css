@@ -200,6 +200,8 @@ h1 {
 .comando:nth-child(8) { animation-delay: 0.8s; }
 .comando:nth-child(9) { animation-delay: 0.9s; }
 .comando:nth-child(10) { animation-delay: 1.0s; }
+.comando:nth-child(11) { animation-delay: 1.1s; }
+.comando:nth-child(12) { animation-delay: 1.2s; }
 
 .comando::before {
     content: '';
